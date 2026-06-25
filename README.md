@@ -1,0 +1,2 @@
+# Project-Multi-Modal-AI-System-for-Industrial-Quality-Assurance
+This project develops an AI-based industrial quality inspection system. A YOLOv8 model detects defects such as cracks and scratches on steel surfaces, while an LLM generates maintenance reports and repair suggestions. The system is deployed through a Streamlit web app, combining computer vision and LLMs to automate quality assurance process
